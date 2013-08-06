@@ -1,13 +1,10 @@
 Ferrari Reachability Index
 ==
+The **Ferrari Reachability Index** is a main-memory index structure for rapid processing of reachability queries over massive graphs.
 
 Introduction
 --
-The **Ferrari Reachability Index** is a main-memory index structure for rapid processing of reachability queries over massive graphs.
-
 A *reachability query* for a pair of vertices *(u,v)* returns a positive answer if the graph under consideration contains a directed path starting at vertex *u* and ending at vertex *v*, and a negative answer otherwise. 
-
-
 
 References
 --
