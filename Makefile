@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -Wall -Wextra -Werror -O0 -p -g
+CXXFLAGS = -Wall -Wextra -Werror -O3
 IFLAGS = -Iinclude
 
 OBJ = ferrari.o Index.o IntervalList.o Graph.o Timer.o
